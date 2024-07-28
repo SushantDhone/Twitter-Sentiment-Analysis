@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b9eef0;
+    background-image: url('');
+}
+
+h1{
+    text-align: center;
+
+}
+p{
+    text-transform: capitalize;
+    font-family: 'Gabriela', serif;
+    color: #FFF;
+    margin: auto;
+    text-align: center;
+    font-size: 1.5em; 
+    border-radius: 20px;
+    background-color: #2ba6cb; 
+    text-decoration-color: red ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
